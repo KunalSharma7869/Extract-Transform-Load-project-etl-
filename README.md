@@ -19,3 +19,6 @@ ETL can be used to reduce operational inefficiency
 ETL can be used to improve back-end processes and end-user experiences 
 ETL and cloud
 ETL is often used in the cloud, where both the data sources and the target databases are located. 
+
+
+In this ipynb file read file with different format like csv ,xlsx,json etc then tranform the file ,manipulate the data and then load the file into single repository ,target database mysql.
